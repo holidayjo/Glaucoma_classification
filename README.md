@@ -1,2 +1,2 @@
-# Glaucoma_classification_BSPC
-Glaucoma_classification_BSPC
+# Glaucoma_classification
+Glaucoma_classification
